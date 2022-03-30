@@ -1,2 +1,2 @@
-# projects
+# learning
 My learning projects
