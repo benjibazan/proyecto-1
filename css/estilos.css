@@ -1,6 +1,6 @@
 body{
 
-    color: black;
+    color: blue;
     text-align: center;
     font-family: Arial;
 }
@@ -25,7 +25,7 @@ body{
     padding: 1em;
     text-align: :left;
     border: 1px solid black;
-    color: black;
+    color: red;
     margin: 0 auto;
 } 
 
